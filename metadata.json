@@ -1,0 +1,5 @@
+{
+  "name": "DeepDive 5-Why Analysis v1",
+  "description": "A structured root cause analysis tool featuring multiple thinking personas and AI-powered insights using Gemini 3 Pro.",
+  "requestFramePermissions": []
+}
